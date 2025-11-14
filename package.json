@@ -1,6 +1,6 @@
 {
   "name": "@sengac/tree-sitter-javascript",
-  "version": "0.25.5",
+  "version": "0.25.12",
   "description": "JavaScript grammar for tree-sitter",
   "repository": "https://github.com/sengac/tree-sitter-javascript",
   "license": "MIT",
